@@ -2,8 +2,10 @@
 A game about how it feels to have different jobs
 
 Create an engaging game where players jump into mini-worlds that showcase different careers. In each career world, players must: 
+
 • Experience a short scenario that captures what the job is like 
 • Complete skill-based challenges and tasks unique to that profession 
+
 
 The game must:  
 • Be playable on a device using Windows 10, Mac OS, a modern web browser, or a mobile platform  
