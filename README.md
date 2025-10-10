@@ -13,6 +13,9 @@ using Multiplayer Samples Utilities you can have the client side update(allowing
 https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop.git?path=/Packages/com.unity.multiplayer.samples.coop
 
 
+helpful image to refer
+https://github.com/user-attachments/assets/1acac432-d7a3-4521-b1d7-9bc1bb09c5c9
+
 
 
 # JobSim
