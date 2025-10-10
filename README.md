@@ -1,3 +1,15 @@
+Helpful Websites
+
+Networking
+
+https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.5/manual/index.html
+
+
+https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.5/manual/components/helper/networktransform.html
+
+
+
+
 # JobSim
 A game about how it feels to have different jobs
 
