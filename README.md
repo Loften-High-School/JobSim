@@ -8,6 +8,11 @@ https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.5/manual/index
 https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.5/manual/components/helper/networktransform.html
 
 
+using Multiplayer Samples Utilities you can have the client side update(allowing the client telling what the server to do which is fine for our game but if player smart enough can hack the host/ also another way to do this is have the client ask the host to "move the player" then host agrees and moves which is to coplicated for right now so we are just gonna use this) update the server of the client var like postion, rotation, etc.
+
+https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop.git?path=/Packages/com.unity.multiplayer.samples.coop
+
+
 
 
 # JobSim
